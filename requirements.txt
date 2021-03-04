@@ -1,0 +1,3 @@
+asyncpg==0.22.0
+psycopg2-binary==2.8.6
+https://github.com/sqlalchemy/sqlalchemy/releases/download/rel_1_4_0b3/SQLAlchemy-1.4.0b3-cp38-cp38-macosx_10_14_x86_64.whl; sys_platform == 'darwin' and python_version == '3.8'
